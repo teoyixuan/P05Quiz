@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">P05-Quiz</string>
+    <string name="app_name">Flight to Taipei</string>
+    <string name="textViewTicketType">Ticket Type</string>
+    <string name="textViewPax">Number of Pax</string>
+    <string name="minusButton">-</string>
+    <string name="addbutton">+</string>
+    <string name="flightDetail" />
 </resources>
